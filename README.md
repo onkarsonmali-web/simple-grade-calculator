@@ -21,4 +21,4 @@ This project is a Python-based Student Grade Calculator that takes student marks
 1. Install Python (if not installed)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/onkarsonmali-web/student-grade-calculator
+git clone https://github.com/onkarsonmali-web/simple-grade-calculator
