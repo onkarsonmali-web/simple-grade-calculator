@@ -1,0 +1,8 @@
+Input: 95 → Grade A
+Input: 85 → Grade B
+Input: 72 → Grade C
+Input: 65 → Grade D
+Input: 40 → Grade F
+Input: -10 → Invalid input
+Input: 120 → Invalid input
+Input: abc → Error handled
